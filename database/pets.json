@@ -1,0 +1,74 @@
+[
+    {
+        "id": 3,
+        "nome": "Bidu",
+        "especie": "Cachorro",
+        "raca": "Beagle",
+        "idade": 5,
+        "peso": 13.0,
+        "cliente_id": 104
+    },
+    {
+        "id": 1,
+        "nome": "Rex",
+        "especie": "Cachorro",
+        "raca": "Labrador",
+        "idade": 5,
+        "peso": 25.0,
+        "cliente_id": 101
+    },
+    {
+        "id": 1,
+        "nome": "Mimi",
+        "especie": "Gato",
+        "raca": "Persa",
+        "idade": 3,
+        "peso": 4.5,
+        "cliente_id": 102
+    },
+    {
+        "id": 2,
+        "nome": "Luna",
+        "especie": "Cachorro",
+        "raca": "Poodle",
+        "idade": 2,
+        "peso": 6.0,
+        "cliente_id": 103
+    },
+    {
+        "id": 3,
+        "nome": "Bidu",
+        "especie": "Cachorro",
+        "raca": "Beagle",
+        "idade": 4,
+        "peso": 12.0,
+        "cliente_id": 104
+    },
+    {
+        "id": 1,
+        "nome": "Rex",
+        "especie": "Cachorro",
+        "raca": "Labrador",
+        "idade": 5,
+        "peso": 25.0,
+        "cliente_id": 101
+    },
+    {
+        "id": 1,
+        "nome": "Mimi",
+        "especie": "Gato",
+        "raca": "Persa",
+        "idade": 3,
+        "peso": 4.5,
+        "cliente_id": 102
+    },
+    {
+        "id": 2,
+        "nome": "Luna",
+        "especie": "Cachorro",
+        "raca": "Poodle",
+        "idade": 2,
+        "peso": 6.0,
+        "cliente_id": 103
+    }
+]

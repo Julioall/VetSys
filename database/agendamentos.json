@@ -1,0 +1,58 @@
+[
+    {
+        "id": 3,
+        "cliente_id": 103,
+        "pet_id": 203,
+        "doutor_id": 303,
+        "data_hora": "2025-07-02T15:00:00"
+    },
+    {
+        "id": 1,
+        "cliente_id": 101,
+        "pet_id": 201,
+        "doutor_id": 301,
+        "data_hora": "2025-07-01T10:00:00"
+    },
+    {
+        "id": 1,
+        "cliente_id": 101,
+        "pet_id": 201,
+        "doutor_id": 301,
+        "data_hora": "2025-06-27T20:36:16.215634"
+    },
+    {
+        "id": 2,
+        "cliente_id": 102,
+        "pet_id": 202,
+        "doutor_id": 302,
+        "data_hora": "2025-06-27T20:36:16.216741"
+    },
+    {
+        "id": 3,
+        "cliente_id": 103,
+        "pet_id": 203,
+        "doutor_id": 303,
+        "data_hora": "2025-07-01T10:00:00"
+    },
+    {
+        "id": 1,
+        "cliente_id": 101,
+        "pet_id": 201,
+        "doutor_id": 301,
+        "data_hora": "2025-07-01T10:00:00"
+    },
+    {
+        "id": 1,
+        "cliente_id": 101,
+        "pet_id": 201,
+        "doutor_id": 301,
+        "data_hora": "2025-06-27T20:38:15.744879"
+    },
+    {
+        "id": 2,
+        "cliente_id": 102,
+        "pet_id": 202,
+        "doutor_id": 302,
+        "data_hora": "2025-06-27T20:38:15.745508"
+    }
+]
